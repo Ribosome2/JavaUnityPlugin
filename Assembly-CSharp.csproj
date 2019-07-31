@@ -82,8 +82,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AndroidNative.cs" />
-    <Compile Include="Assets\Scripts\HelloWorld.cs" />
     <Compile Include="Assets\Scripts\JNIUti.cs" />
+    <Compile Include="Assets\Scripts\TestManager.cs" />
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
     </Reference>

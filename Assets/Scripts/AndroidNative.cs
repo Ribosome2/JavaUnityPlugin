@@ -8,7 +8,7 @@ public class AndroidNative
 //#if UNITY_ANDROID && !UNITY_EDITOR
         try
         {
-            string CLASS_NAME = "com.example.Utility.PopupManager";
+            string CLASS_NAME = "com.example.test.PopupManager";
             AndroidJavaObject bridge = new AndroidJavaObject(CLASS_NAME);
 
             AndroidJavaClass jc = new AndroidJavaClass("com.unity3d.player.UnityPlayer"); 

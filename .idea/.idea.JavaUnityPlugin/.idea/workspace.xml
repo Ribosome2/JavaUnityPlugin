@@ -2,33 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60f44c7-2815-4c2d-8694-af94f727b9c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AndroidPluginProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/test/UnityActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AndroidPluginProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/androidTest/java/com/example/texturehelper/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/androidTest/java/com/example/Utility/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/androidTest/java/com/example/Utility/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/Utility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/Utility.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/test/java/com/example/texturehelper/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/test/java/com/example/Utility/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/test/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/PopupManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/test/PopupManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/Utility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/test/Utility.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/test/java/com/example/Utility/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/test/java/com/example/test/ExampleUnitTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/app-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/app-debug.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TestManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TestManager.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Test.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/ScriptLayoutHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/ScriptLayoutHashes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/89/89806611473ccb242b39f73d5e5191d1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/89/89806611473ccb242b39f73d5e5191d1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/89/89806611473ccb242b39f73d5e5191d1.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/89/89806611473ccb242b39f73d5e5191d1.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Test.apk" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,18 +64,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TestManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="448">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <marker date="1564551813129" expanded="true" signature="6:54" ph="..." />
-                <marker date="1564551813129" expanded="true" signature="97:962" ph="{...}" />
-                <marker date="1564551813129" expanded="true" signature="139:551" ph="{...}" />
-                <marker date="1564551813129" expanded="true" signature="579:668" ph="{...}" />
-                <marker date="1564551813129" expanded="true" signature="629:662" ph="{...}" />
-                <marker date="1564551813129" expanded="true" signature="698:843" ph="{...}" />
-                <marker date="1564551813129" expanded="true" signature="878:960" ph="{...}" />
+                <marker date="1564557004578" expanded="false" signature="6:54" ph="..." />
+                <marker date="1564557004578" expanded="true" signature="98:1401" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="147:415" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="159:409" ph="/* Make the call using JNI to the Java Class and write out the response (or write 'Invalid Response From JNI' if  ... */" />
+                <marker date="1564557004578" expanded="true" signature="443:532" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="493:526" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="562:704" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="739:821" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="864:1313" ph="{...}" />
+                <marker date="1564557004578" expanded="true" signature="1344:1399" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -81,20 +87,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="748">
+              <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
               <folding>
-                <marker date="1564543155638" expanded="true" signature="6:44" ph="..." />
-                <marker date="1564543155638" expanded="true" signature="72:1578" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="149:805" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="204:700" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="618:686" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="728:790" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="925:1014" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="1102:1178" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="1255:1327" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="1396:1458" ph="{...}" />
-                <marker date="1564543155638" expanded="true" signature="1518:1576" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="6:44" ph="..." />
+                <marker date="1564556690843" expanded="true" signature="72:1588" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="149:815" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="204:710" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="628:696" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="738:800" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="935:1024" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="1112:1188" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="1265:1337" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="1406:1468" ph="{...}" />
+                <marker date="1564556690843" expanded="true" signature="1528:1586" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -106,7 +112,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/JNIUti.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -114,8 +120,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/JNIUti.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestManager.cs" />
       </list>
     </option>
   </component>
@@ -210,12 +217,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564538277830</updated>
       <workItem from="1564538281735" duration="785000" />
-      <workItem from="1564540396137" duration="3093000" />
+      <workItem from="1564540396137" duration="8550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3878000" />
+    <option name="totallyTimeSpent" value="9335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,6 +270,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TestManager.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TestManager.cs" initialLine="38">
+            <startOffsets>
+              <option value="916" />
+            </startOffsets>
+            <endOffsets>
+              <option value="993" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -288,36 +308,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="748">
+          <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
           <folding>
-            <marker date="1564543155638" expanded="true" signature="6:44" ph="..." />
-            <marker date="1564543155638" expanded="true" signature="72:1578" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="149:805" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="204:700" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="618:686" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="728:790" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="925:1014" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="1102:1178" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="1255:1327" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="1396:1458" ph="{...}" />
-            <marker date="1564543155638" expanded="true" signature="1518:1576" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="6:44" ph="..." />
+            <marker date="1564556690843" expanded="true" signature="72:1588" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="149:815" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="204:710" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="628:696" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="738:800" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="935:1024" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="1112:1188" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="1265:1337" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="1406:1468" ph="{...}" />
+            <marker date="1564556690843" expanded="true" signature="1528:1586" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TestManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="448">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <marker date="1564551813129" expanded="true" signature="6:54" ph="..." />
-            <marker date="1564551813129" expanded="true" signature="97:962" ph="{...}" />
-            <marker date="1564551813129" expanded="true" signature="139:551" ph="{...}" />
-            <marker date="1564551813129" expanded="true" signature="579:668" ph="{...}" />
-            <marker date="1564551813129" expanded="true" signature="629:662" ph="{...}" />
-            <marker date="1564551813129" expanded="true" signature="698:843" ph="{...}" />
-            <marker date="1564551813129" expanded="true" signature="878:960" ph="{...}" />
+            <marker date="1564557004578" expanded="false" signature="6:54" ph="..." />
+            <marker date="1564557004578" expanded="true" signature="98:1401" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="147:415" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="159:409" ph="/* Make the call using JNI to the Java Class and write out the response (or write 'Invalid Response From JNI' if  ... */" />
+            <marker date="1564557004578" expanded="true" signature="443:532" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="493:526" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="562:704" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="739:821" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="864:1313" ph="{...}" />
+            <marker date="1564557004578" expanded="true" signature="1344:1399" ph="{...}" />
           </folding>
         </state>
       </provider>

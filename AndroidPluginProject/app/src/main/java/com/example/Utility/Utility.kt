@@ -1,4 +1,4 @@
-package com.example.texturehelper
+package com.example.Utility
 class Utility {
     companion object{
         fun GetSth():String{

@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60f44c7-2815-4c2d-8694-af94f727b9c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AndroidPluginProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/Utility.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidPluginProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JavaUnityPlugin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AndroidPluginProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/androidTest/java/com/example/texturehelper/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/androidTest/java/com/example/Utility/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/texturehelper/Utility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/main/java/com/example/Utility/Utility.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/app/src/test/java/com/example/texturehelper/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/app/src/test/java/com/example/Utility/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidPluginProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidPluginProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/app-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/app-debug.aar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/JNIUti.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/JNIUti.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Test.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
@@ -18,18 +25,11 @@
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/ScriptLayoutHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/ScriptLayoutHashes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/6f/6f91d8107de946944b640c08b40546e8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6f/6f91d8107de946944b640c08b40546e8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/89/89806611473ccb242b39f73d5e5191d1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/89/89806611473ccb242b39f73d5e5191d1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Test.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,15 +63,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="136" selection-start-line="28" selection-start-column="136" selection-end-line="28" selection-end-column="136" />
+            <state relative-caret-position="374">
+              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
-                <marker date="1564542380301" expanded="true" signature="6:54" ph="..." />
-                <marker date="1564542380301" expanded="true" signature="97:855" ph="{...}" />
-                <marker date="1564542380301" expanded="true" signature="139:557" ph="{...}" />
-                <marker date="1564542380301" expanded="true" signature="585:674" ph="{...}" />
-                <marker date="1564542380301" expanded="true" signature="635:668" ph="{...}" />
-                <marker date="1564542380301" expanded="true" signature="704:853" ph="{...}" />
+                <marker date="1564551813129" expanded="true" signature="6:54" ph="..." />
+                <marker date="1564551813129" expanded="true" signature="97:962" ph="{...}" />
+                <marker date="1564551813129" expanded="true" signature="139:551" ph="{...}" />
+                <marker date="1564551813129" expanded="true" signature="579:668" ph="{...}" />
+                <marker date="1564551813129" expanded="true" signature="629:662" ph="{...}" />
+                <marker date="1564551813129" expanded="true" signature="698:843" ph="{...}" />
+                <marker date="1564551813129" expanded="true" signature="878:960" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="52" />
+              <folding>
+                <marker date="1564543155638" expanded="true" signature="6:44" ph="..." />
+                <marker date="1564543155638" expanded="true" signature="72:1578" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="149:805" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="204:700" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="618:686" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="728:790" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="925:1014" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="1102:1178" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="1255:1327" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="1396:1458" ph="{...}" />
+                <marker date="1564543155638" expanded="true" signature="1518:1576" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -84,12 +107,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/JNIUti.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/JNIUti.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs" />
       </list>
     </option>
@@ -107,6 +132,9 @@
     <option name="width" value="1296" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -118,6 +146,20 @@
       <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
@@ -168,12 +210,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564538277830</updated>
       <workItem from="1564538281735" duration="785000" />
-      <workItem from="1564540396137" duration="1442000" />
+      <workItem from="1564540396137" duration="3093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2227000" />
+    <option name="totallyTimeSpent" value="3878000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,17 +286,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AndroidNative.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <marker date="1564543155638" expanded="true" signature="6:44" ph="..." />
+            <marker date="1564543155638" expanded="true" signature="72:1578" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="149:805" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="204:700" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="618:686" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="728:790" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="925:1014" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="1102:1178" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="1255:1327" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="1396:1458" ph="{...}" />
+            <marker date="1564543155638" expanded="true" signature="1518:1576" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/HelloWorld.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="136" selection-start-line="28" selection-start-column="136" selection-end-line="28" selection-end-column="136" />
+        <state relative-caret-position="374">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
-            <marker date="1564542380301" expanded="true" signature="6:54" ph="..." />
-            <marker date="1564542380301" expanded="true" signature="97:855" ph="{...}" />
-            <marker date="1564542380301" expanded="true" signature="139:557" ph="{...}" />
-            <marker date="1564542380301" expanded="true" signature="585:674" ph="{...}" />
-            <marker date="1564542380301" expanded="true" signature="635:668" ph="{...}" />
-            <marker date="1564542380301" expanded="true" signature="704:853" ph="{...}" />
+            <marker date="1564551813129" expanded="true" signature="6:54" ph="..." />
+            <marker date="1564551813129" expanded="true" signature="97:962" ph="{...}" />
+            <marker date="1564551813129" expanded="true" signature="139:551" ph="{...}" />
+            <marker date="1564551813129" expanded="true" signature="579:668" ph="{...}" />
+            <marker date="1564551813129" expanded="true" signature="629:662" ph="{...}" />
+            <marker date="1564551813129" expanded="true" signature="698:843" ph="{...}" />
+            <marker date="1564551813129" expanded="true" signature="878:960" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,4 +1,4 @@
-package com.example.texturehelper;
+package com.example.Utility;
 
 public class HelloWorld {
     public static String sayHello(){
@@ -7,5 +7,9 @@ public class HelloWorld {
 
     public static String callKotlin(){
         return Utility.Companion.GetSth();
+    }
+
+    public static  void confirmExit(){
+
     }
 }

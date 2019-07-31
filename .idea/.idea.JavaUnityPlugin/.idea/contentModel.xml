@@ -6,6 +6,7 @@
     <e p="E:\KyleFiles\TestProjects\JavaUnityPlugin" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets\Scripts" t="Include">
+        <e p="AndroidNative.cs" t="Include" />
         <e p="HelloWorld.cs" t="Include" />
         <e p="JNIUti.cs" t="Include" />
       </e>

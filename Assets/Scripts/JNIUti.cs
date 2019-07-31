@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 
-namespace CaptiveReality.Jni
-{
-    class Util
+
+    class JNIUtil
     {
         /// <summary>
         /// StaticCall - Call a static Java method in a class using Jni
@@ -50,4 +49,3 @@ namespace CaptiveReality.Jni
         }
 
     }
-}

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
  
 public class HelloWorld : MonoBehaviour {
@@ -11,7 +12,20 @@ public class HelloWorld : MonoBehaviour {
         textObj = gameObject.GetComponent<Text>();
  
         // Make the call using JNI to the Java Class and write out the response (or write 'Invalid Response From JNI' if there was a problem).
-        textObj.text = CaptiveReality.Jni.Util.StaticCall("sayHello", "Invalid Response From JNI", "com.example.texturehelper.HelloWorld");
+        textObj.text =JNIUtil.StaticCall("sayHello", "Invalid Response From JNI", "com.example.texturehelper.HelloWorld");
     }
-    
+
+
+    private void Update()
+    {
+        if (Input.GetKeyUp(KeyCode.Escape))
+        {
+            
+        }
+    }
+
+    public void TestKotLin()
+    {
+        textObj.text =textObj.text =JNIUtil.StaticCall("callKotlin", "Invalid Response From JNI", "com.example.texturehelper.HelloWorld");
+    }
 }
